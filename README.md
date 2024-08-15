@@ -17,6 +17,7 @@ We welcome contributions to enhance WindyUI. To get started, please follow these
 1. One Component per Issue: Each Issue request should address only one component. This practice helps streamline the review process and track changes effectively.
 2. Mention NPM Libraries: If your component relies on external npm libraries, include these details in your PR description to inform the reviewers about any dependencies.
 3. Include a Screenshot: If possible, provide a screenshot link of your component in the PR description. This visual aid helps reviewers quickly understand your contribution.
+4. Star and Fork it to let others know your presesnce.
 
 
 ```
@@ -28,6 +29,8 @@ Screenshot (if any):
 github url:
 
 ```
+
+
 ## Code of Conduct
 1. Maintain Code Quality:
 2. Ensure your code is clean, well-documented, and adheres to best practices in JavaScript and Tailwind CSS.
